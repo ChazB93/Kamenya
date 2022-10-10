@@ -6,24 +6,14 @@ import "../App.css";
 function HeroSection() {
   return (
     <div className="hero-container">
-      <video src="/videos/video-2.mp4" autoPlay loop muted />
-      <h1>ULIMA's OFFICIAL WEBSITE</h1>
-      <p>What we do?</p>
+      <img src="images/kamenya.png" />
       <div className="hero-btns">
         <Button
           className="btns"
           buttonStyle="btn--outline"
           buttonSize="btn--large"
         >
-          ABOUT US
-        </Button>
-
-        <Button
-          className="btns"
-          buttonStyle="btn--outline"
-          buttonSize="btn--large"
-        >
-          OUR SERVICES <i className="far fa-play-circle"/>
+          MISSION & VISSION
         </Button>
       </div>
     </div>
