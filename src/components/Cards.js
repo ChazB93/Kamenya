@@ -10,14 +10,14 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItems
-              src="images/farmer1.jpg"
-              text="We develop outstanding and friendly use web application that help our customers to grow their business"
+              src="images/train.jpg"
+              text="We Co-develop with farmers and other stakeholders involved in agriculture to develop and new agricultural model that is sustainable"
               label="Offer trainings"
-              path="/services" 
+              path="/" 
             />
              <CardItems
-              src="images/img-iot.jpg"
-              text="We develop IoT solutions to bring added value into your daily life or activities"
+              src="images/IoTfarm.jpg"
+              text="We develop IoT solutions that enable farmers to practice a smart farming"
               label="IoT Solutions"
               path="/services" 
             />
@@ -25,20 +25,20 @@ function Cards() {
           </ul>
           <ul className="cards__items">
             <CardItems
-              src="images/img-sup.jpg"
-              text="Call us and just relax. we provide quickly and reliable IT Support to individuals and companies"
+              src="images/loan.jpeg"
+              text="We offer small loans to customers in order to ensure that farmers are able to get the basic needs even before the harvest"
               label="Provide loans to farmers"
               path="/services" 
             />
              <CardItems
-              src="images/img-big.jpg"
-              text="We have the organizations to deal with their data and provide to them insights that help to make good decisions for their businesses"
+              src="images/production.jpg"
+              text="We work together with the farmers to make sure that we provide all material and technical support needed to boost the production"
               label="Work to increase production"
               path="/services" 
             />
             <CardItems
-              src="images/img-sta.jpg"
-              text="We help your staff to meet the needed competences to grow your businesses by traiing them"
+              src="images/export.jpg"
+              text="We create channels to external markets in order to valorise the products and get the foreign currency to farmers"
               label="Export agricultural products"
               path="/services" 
             />

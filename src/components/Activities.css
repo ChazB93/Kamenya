@@ -4,7 +4,7 @@
 .information h3 {
   font-size: 36px;
   font-weight: 900;
-  color: #1F2937;
+  color:green;
   text-align: center;
 }
 .articles {
@@ -15,7 +15,7 @@
 
 }
 .articles h4 {
-  color: #3882f6;
+  color: green;
   font-weight: 700;
   font-size: 18px;
   margin: 10px 0 0 0;

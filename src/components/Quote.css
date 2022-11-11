@@ -1,0 +1,20 @@
+.testimonial{
+    background-color: #E5E7EB;
+    padding: 5% 20%;
+}
+.quote{
+    
+    justify-content: center;
+    text-align: center;
+}
+.quote p{
+    padding-top: 50px;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: 100; 
+}
+.quote h2{
+    font-size: 40px;
+    font-style: oblique;
+    display: green;
+}

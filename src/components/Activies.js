@@ -4,7 +4,7 @@ import "../components/Activities.css"
 function Activities(){
     return(
         <>
-          <section class="information">
+          <section className="information">
             <h3>Our Initiatives</h3>
             <div className="articles">
               <div className="info-snippet">

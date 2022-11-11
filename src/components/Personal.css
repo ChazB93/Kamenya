@@ -1,0 +1,63 @@
+.img_principal{
+    width: 100%;
+    height: auto;
+   
+}
+.img_principal img{
+    width: 100%;
+    height: 350px;
+}
+.img_principal h2{
+    padding-top: 50px;
+    margin-left: 150px;
+    font-style: italic;
+    color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.teams{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-left: 130px;
+    margin-top: 30px;
+
+}
+.teams h4 {
+    color: green;
+    font-weight: 700;
+    font-size: 18px;
+    margin: 10px 0 0 0;
+}
+.teams h5 {
+    color: rgb(4, 65, 4);
+    font-weight: 700;
+    font-size: 15px;
+    font-style: italic;
+}
+.teams p {
+    font-weight: 100;
+    min-height: 100px;
+    font-style: italic;
+    padding-top: 10px;
+}
+
+.info-snippet {
+    margin: 10px;
+    padding: 5px;
+    max-width: 300px;
+}
+
+.info-snippet img {
+    border: solid green;
+    border-radius: 15px;
+    object-fit: cover;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    z-index: -2;
+}
+
+.info-snippet a {
+    text-decoration: none;
+    color: #3882f6;
+}

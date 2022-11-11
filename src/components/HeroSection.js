@@ -17,7 +17,7 @@ function HeroSection() {
                       alternative and truly innovative farming and food system.</p>
                     <Link to="/Home" className="btn-mobile">
                     <Button
-                    >Intervations</Button></Link>
+                    >Intervetions</Button></Link>
                 </div>
             </section>
     </>
