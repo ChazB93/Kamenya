@@ -16,7 +16,7 @@ function Footer() {
           </div>
 
           <div className="footer-link-items">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2721.3163588092984!2d8.3075163146614!3d46.99476087914884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478ffa0b496b7b71%3A0xe071fd3b8df33c44!2sObermattweg%209%2C%206052%20Hergiswil!5e0!3m2!1sen!2sch!4v1667605199465!5m2!1sen!2sch"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2721.3163588092984!2d8.3075163146614!3d46.99476087914884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478ffa0b496b7b71%3A0xe071fd3b8df33c44!2sObermattweg%209%2C%206052%20Hergiswil!5e0!3m2!1sen!2sch!4v1667605199465!5m2!1sen!2sch" title="GoogleMap"></iframe>
           </div>
         </div>
 

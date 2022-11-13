@@ -36,7 +36,8 @@
   position: relative;
   z-index: -2;
 }
-.info-snippet: :hover{
+
+.info-snippet :hover{
   transform: scale(1.1);
 }
 

@@ -8,7 +8,7 @@ function Activities(){
             <h3>Our Initiatives</h3>
             <div className="articles">
               <div className="info-snippet">
-              <a href="whatWeDo.html#oa">
+              <a href="/">
               <div class="article-img">
                             <img src="images/farmer1.jpg" alt="image of seal on beach"/>
                         </div>
@@ -16,7 +16,7 @@ function Activities(){
               <h4>Transform agriculture model</h4>
               </div>
               <div className="info-snippet">
-              <a href="whatWeDo.html#oa">
+              <a href="/">
               <div class="article-img">
                             <img src="images/support.jpg" alt="image of seal on beach"/>
                         </div>
@@ -24,9 +24,9 @@ function Activities(){
               <h4>Support farmers to increase their living standards</h4>
               </div>
               <div className="info-snippet">
-              <a href="whatWeDo.html#oa">
+              <a href="/">
               <div class="article-img">
-                            <img src="images/ecosystem.jpg" alt="image of seal on beach"/>
+                            < img src="images/ecosystem.jpg" alt="image of seal on beach"/>
                         </div>
               </a>
               <h4>Protect and regenerate the local ecosystem</h4>

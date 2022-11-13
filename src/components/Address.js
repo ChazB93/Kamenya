@@ -5,7 +5,7 @@ function  Address(){
     return(
         <>
         <section className='img_contact'>
-        <img src="images/contact.png"/>
+        <img src="images/contact.png" alt="contact"/>
         <div className="contact">
             <div className="contact_section">
             <h2>Contact</h2>
