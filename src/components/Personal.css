@@ -39,6 +39,7 @@
     min-height: 100px;
     font-style: italic;
     padding-top: 10px;
+    text-align: justify;
 }
 
 .info-snippet {

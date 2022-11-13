@@ -4,19 +4,21 @@ import "../components/MissionData.css";
 function MissionData() {
   return (
     <div className="ContentMission">
-      <p>Mission</p>
-      <p id="wino">
-        This is an inspiring quote, or a testimonial from a customer. Maybe it
-        is just filling up space, or maybe people will actually read it. Who
-        knows?All I know is that it looks nice
+      
+      <div className="content">
+      <h3>Mission</h3>
+      <p className="mission">
+      Support farmers in developing countries to boost their living standards by co-develop with them the sustainable agricultural model which will help them to increase the production. 
+      </p><hr/><hr/>
+      <h3>Vision</h3>
+      <p classNam="vision">
+      Becoming a powerful engine that will help farmers in developing countries to reach at least the first two sustainable development goals developed by the UN.
+      </p><hr/><hr/>
+      <h3>Value</h3>
+      <p classNam="vision">
+      Our values are based on the sustainability approach. we value the social and economic life of farmers while giving attention to the environment
       </p>
-      <hr/>
-      <p>Vision</p>
-      <p id="wino">
-        This is an inspiring quote, or a testimonial from a customer. Maybe it
-        is just filling up space, or maybe people will actually read it. Who
-        knows?All I know is that it looks nice
-      </p>
+      </div>
     </div>
   );
 }
