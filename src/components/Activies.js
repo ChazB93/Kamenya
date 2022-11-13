@@ -10,7 +10,7 @@ function Activities(){
               <div className="info-snippet">
               <a href="/">
               <div class="article-img">
-                            <img src="images/farmer1.jpg" alt="image of seal on beach"/>
+                            <img src={process.env.PUBLIC_URL + "/images/farmer1.jpg"} alt="image of seal on beach"/>
                         </div>
               </a>
               <h4>Transform agriculture model</h4>
@@ -18,7 +18,7 @@ function Activities(){
               <div className="info-snippet">
               <a href="/">
               <div class="article-img">
-                            <img src="images/support.jpg" alt="image of seal on beach"/>
+                            <img src={process.env.PUBLIC_URL + "/images/support.jpg"} alt="image of seal on beach"/>
                         </div>
               </a>
               <h4>Support farmers to increase their living standards</h4>
@@ -26,7 +26,7 @@ function Activities(){
               <div className="info-snippet">
               <a href="/">
               <div class="article-img">
-                            < img src="images/ecosystem.jpg" alt="image of seal on beach"/>
+                            <img src={process.env.PUBLIC_URL + "/images/ecosystem.jpg"} alt="image of seal on beach"/>
                         </div>
               </a>
               <h4>Protect and regenerate the local ecosystem</h4>

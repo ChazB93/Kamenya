@@ -10,13 +10,13 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItems
-              src="images/train.jpg"
+              src={process.env.PUBLIC_URL + "/images/train.jpg"}
               text="We Co-develop with farmers and other stakeholders involved in agriculture to develop and new agricultural model that is sustainable"
               label="Offer trainings"
               path="/" 
             />
              <CardItems
-              src="images/IoTfarm.jpg"
+              src={process.env.PUBLIC_URL + "/images/IoTfarm.jpg"}
               text="We develop IoT solutions that enable farmers to practice a smart farming"
               label="IoT Solutions"
               path="/services" 
@@ -25,19 +25,19 @@ function Cards() {
           </ul>
           <ul className="cards__items">
             <CardItems
-              src="images/loan.jpeg"
+              src={process.env.PUBLIC_URL + "/images/loan.jpeg"}
               text="We offer small loans to customers in order to ensure that farmers are able to get the basic needs even before the harvest"
               label="Provide loans to farmers"
               path="/services" 
             />
              <CardItems
-              src="images/production.jpg"
+              src={process.env.PUBLIC_URL + "/images/production.jpg"}
               text="We work together with the farmers to make sure that we provide all material and technical support needed to boost the production"
               label="Work to increase production"
               path="/services" 
             />
             <CardItems
-              src="images/export.jpg"
+              src={process.env.PUBLIC_URL + "/images/export.jpg"}
               text="We create channels to external markets in order to valorise the products and get the foreign currency to farmers"
               label="Export agricultural products"
               path="/services" 

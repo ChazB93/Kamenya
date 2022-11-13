@@ -9,7 +9,8 @@ function HeroSection() {
     <>
     <section className="hero" role="banner">
     <div className="hero-img">
-                    <img src="images/company.png" className="w3-circle" alt="Hero image"/>
+                    
+                    <img src={process.env.PUBLIC_URL + "/images/company.png"} className="w3-circle" alt="Hero image"/>
                 </div>
                 <div className="hero-txt">
                     <h2>Engine for modernization and change of life for farmers in Africa</h2>
