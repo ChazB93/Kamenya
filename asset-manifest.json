@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kamenya/static/css/main.0271b55c.css",
+    "main.js": "/Kamenya/static/js/main.11e6f2b0.js",
+    "index.html": "/Kamenya/index.html",
+    "main.0271b55c.css.map": "/Kamenya/static/css/main.0271b55c.css.map",
+    "main.11e6f2b0.js.map": "/Kamenya/static/js/main.11e6f2b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0271b55c.css",
+    "static/js/main.11e6f2b0.js"
+  ]
+}
