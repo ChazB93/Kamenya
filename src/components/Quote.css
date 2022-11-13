@@ -12,9 +12,12 @@
     font-size: 26px;
     font-style: italic;
     font-weight: 100; 
+    text-align: justify;
+    color: rgb(95, 89, 80);
 }
 .quote h2{
     font-size: 40px;
     font-style: oblique;
     display: green;
+    color: rgb(26, 54, 26);
 }
