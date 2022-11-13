@@ -1,13 +1,23 @@
 /* Banner */
 
 .hero {
+  width: 100%;
   display: flex;
   justify-content: space-around;
   background-color: rgb(41, 90, 41);
 }
+.hero-img{
+  width: 200px;
+  align-items: center;
+  align-content: center;
+}
+.hero-txt{
+  width: 700px;
+  margin-left: 100px;
+  align-content: center;
+}
 
 .hero h2 {
-  font-weight: 900;
   font-size: 48px;
   color: #f9faf8;
   margin-bottom: 0;
@@ -18,7 +28,6 @@
   font-weight: 100;
   color: #f9faf8;
   margin-top: 0;
-  margin-right: 130px;
 }
 
 .hero button {
@@ -27,38 +36,36 @@
   font-weight: 700;
   padding: 5px 20px 5px 20px;
   background-color: green;
-  color: #E5E7eb;
+  color: #e5e7eb;
   border-radius: 5px;
   border: none;
   cursor: pointer;
   z-index: 1;
 }
 
-
 .hero img {
   height: 300px;
-  width: auto;
+  width: 320px;
   border-radius: 400px;
   margin-top: 50px;
-  margin-left: 120px;
+  margin-left: 100px;
   margin-bottom: 50px;
 }
-.hero-txt h2{
+.hero-txt h2 {
   font-size: 36px;
-    font-style: italic;
-    font-weight: 100;
-    overflow: hidden;
-    padding-top: 100px;
-    margin-left: 50px;
+  font-style: italic;
+  font-weight: 100;
+  overflow: hidden;
+  padding-top: 100px;
+  margin-left: 50px;
 }
-.hero-txt p{
+.hero-txt p {
   font-style: normal;
   font-size: 20px;
   margin-top: 10px;
   margin-left: 50px;
-
 }
-.hero-txt button{
+.hero-txt button {
   margin-left: 50px;
   font-size: large;
   font-style: oblique;
