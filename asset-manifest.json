@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Kamenya/static/css/main.0271b55c.css",
-    "main.js": "/Kamenya/static/js/main.11e6f2b0.js",
+    "main.css": "/Kamenya/static/css/main.c9981c90.css",
+    "main.js": "/Kamenya/static/js/main.370459b7.js",
     "index.html": "/Kamenya/index.html",
-    "main.0271b55c.css.map": "/Kamenya/static/css/main.0271b55c.css.map",
-    "main.11e6f2b0.js.map": "/Kamenya/static/js/main.11e6f2b0.js.map"
+    "main.c9981c90.css.map": "/Kamenya/static/css/main.c9981c90.css.map",
+    "main.370459b7.js.map": "/Kamenya/static/js/main.370459b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.0271b55c.css",
-    "static/js/main.11e6f2b0.js"
+    "static/css/main.c9981c90.css",
+    "static/js/main.370459b7.js"
   ]
 }
