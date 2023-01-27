@@ -1,1 +1,1 @@
-https://chazb93.github.io/
+https://chazb93.github.io/Kamenya/
